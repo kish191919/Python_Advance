@@ -6,3 +6,4 @@ kaggle.json
 
 *.ipynb_checkpoints
 *.csv
+*.pyc
