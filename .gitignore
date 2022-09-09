@@ -5,3 +5,4 @@ kaggle.json
 *.log
 
 *.ipynb_checkpoints
+*.csv
