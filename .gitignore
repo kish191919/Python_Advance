@@ -3,3 +3,5 @@ kaggle.json
 
 # log file
 *.log
+
+*.ipynb_checkpoints
